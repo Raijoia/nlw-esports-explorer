@@ -16,4 +16,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-raiijoiamv@gmail.com
+raijoiamv@gmail.com
